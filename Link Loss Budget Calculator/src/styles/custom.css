@@ -1,0 +1,33 @@
+/* Global Styles */
+/* This directory contains global CSS styles and Tailwind CSS customizations */
+
+/* Custom Component Styles */
+/* Place custom component styles that extend Tailwind classes here */
+
+/* Example: Custom button variants */
+/*
+@layer components {
+  .btn-primary {
+    @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded;
+  }
+}
+*/
+
+/* Custom Utilities */
+/* Add custom utility classes here */
+
+/*
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent;
+  }
+}
+*/
