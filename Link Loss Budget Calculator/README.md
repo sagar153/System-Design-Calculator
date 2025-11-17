@@ -1,8 +1,7 @@
-1. npx create-vite@latest . --template react-ts
-2. ## React Setup Commands
+## React Setup Commands
 1. Install Node.js
 2. Open VS Terminal
-3. npx create-vite@latest . --template react-ts
+3. npm create vite@latest link-loss-budget-calculator -- --template react
 
 ## Unit Test Command
 4. npm install --save-dev @testing-library/react @testing-library/jest-dom @testing-library/user-event jest-environment-jsdom

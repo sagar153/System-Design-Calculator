@@ -6,12 +6,15 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        'vite': '#646cff',
-        'react': '#61dafb',
+      dropShadow: {
+        'logo-blue': '0 0 2em #646cffaa',
+        'logo-react': '0 0 2em #61dafbaa',
       },
       animation: {
-        'spin-slow': 'spin 20s linear infinite',
+        'spin': 'spin 20s linear infinite',
+      },
+      screens: {
+        'xs': '480px',
       },
     },
   },
