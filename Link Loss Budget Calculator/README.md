@@ -16,3 +16,11 @@
 ## Tailwind Installation
 10. npm install -D tailwindcss postcss autoprefixer
 11. npm install -D @tailwindcss/postcss
+
+## File Changed
+1. Step1.tsx
+2. AppStyles.ts
+3. App.tsx
+4. Index.css
+5. App.css
+6. main.tsx
